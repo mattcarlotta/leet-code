@@ -1,0 +1,27 @@
+{
+  "name": "leet-code",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "bin_search": "ts-node bin_search.ts",
+    "search_range": "ts-node first_last_position_search.ts",
+    "sorted": "ts-node merge_two_sorted_lists.ts",
+    "selection_sort": "ts-node selection_sort.ts",
+    "valid_parens": "ts-node valid_parens.ts",
+    "remove_dups": "ts-node remove_dups.ts",
+    "search_insert": "ts-node search_insert.ts",
+    "length_of_word": "ts-node length_of_word.ts",
+    "plus_one": "ts-node plus_one.ts",
+    "sorted_dedup": "ts-node sorted_dedup_link.ts",
+    "88_merge_sorted_arr": "ts-node merge_sorted_array.ts",
+    "majority_elem": "ts-node majority_elem.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^18.15.11",
+    "ts-node": "^10.9.1"
+  }
+}
