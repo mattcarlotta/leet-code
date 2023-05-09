@@ -5,6 +5,7 @@
   "main": "index.ts",
   "scripts": {
     "bin_search": "ts-node bin_search.ts",
+    "pq_bfs": "ts-node pq_bfs.ts",
     "vowel_search": "ts-node vowel_in_str_range.ts",
     "quicksort": "ts-node quicksort.ts",
     "recursion": "ts-node recursion.ts",
